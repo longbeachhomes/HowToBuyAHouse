@@ -1,0 +1,186 @@
+{
+  "settings": {
+    "name": "HowToBuyAHouse",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 10,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120.png",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/house-with-flag-and-suv-fin-2000x1441.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "HOW TO BUY A HOUSE",
+          "text": "A quick, straight-forward guide to what you need to do to buy your first home. A no-going-around-the bushes, just plain and simple but right-to-the-point approach to what you really need to start right the home-buying process.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2b0680",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "THE ULTIMATE GUIDE TO BUYING A HOME",
+          "subtitle": "Buying your first home can easily become a daunting task if you are not familiar with the process. There are important issues to pay attention to during the process, including taking care of the financing and finding the right home for you and your family. Many first-time home buyers and even repeat buyers easily miss crucial elements during the process that might come to bite if not resolved or looked for during the process. That is why it is important to get help from a Realtor. Realtors are there to help you, and when you are buying a home, they do it at absolutely no cost to you. But before reaching the point where you are ready to talk to a Realtor, if you are considering buying a home but you do not know where to start, you can get this report that tells you the basic and most important things to take into consideration when starting your path to home buying. This special presentation will tell you, in few words and step by step, the most important points to take into account when buying a home. You can read it as a starting point to see the whole picture of what buying a home entitles, before continuing with your next steps. This presentation will be sent to your email completely FREE. Once you have reviewed the presentation, I encourage you to seek the help from a Realtor you trust. He or she will be your best ally in your effort to become a proud homeowner.",
+          "form": {
+            "action": "emperorcesare@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET YOUR PRESENTATION!</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cres-logo-with-eho-logo-128x62.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n111 Pacifica Suite 160<br>\nIrvine CA 92618",
+          "text2": "<strong>Contacts</strong><br>\nEmail: caesarmarin@gmail.com<br>\nMobile: 714.610.6809<br>\nOffice: 949.203.4301",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"http://cesarmarin.irvine.carringtonrealestate.com/results/\" target=\"_blank\">View Homes</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://cesarmarin.irvine.carringtonrealestate.com/home-valuation/\" target=\"_blank\">Home Valuation</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://longbeachhomes.github.io/sellyourhomeforfree/\" target=\"_blank\">Sell Your Home For FREE</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#1a274e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright © 2017 Cesar Marin BRE#01274794/NMLS#269348, All Rights Reserved.<br>Equal Housing Opportunity Lender | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Privacy Policy</a> | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Terms &amp; Conditions</a> | Powered by CMDesign<br>Not everyone is eligible for the programs, and some restrictions do apply. The information contained on this site is for informational purposes only and is not an advertisement for products. The views and opinions expressed herein are those of the respective author(s) and do not reflect the policy or position of Carrington Real Estate, its officers, parent, or affiliates.<br>"
+        }
+      ]
+    }
+  }
+}
