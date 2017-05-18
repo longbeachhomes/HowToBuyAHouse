@@ -26,7 +26,9 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99328617-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -74,7 +76,7 @@
             "showButtons": false
           },
           "title": "HOW TO BUY A HOUSE",
-          "text": "A quick, straight-forward guide to what you need to do to buy your first home. A no-going-around-the bushes, just plain and simple but right-to-the-point approach to what you really need to start right the home-buying process.",
+          "text": "A quick, straight-forward guide to what you need to do to buy your first home. A plain and simple but right-to-the-point advise to what you <b>really</b> need to start right your home purchase.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -107,11 +109,11 @@
             "showSubTitle": true
           },
           "title": "THE ULTIMATE GUIDE TO BUYING A HOME",
-          "subtitle": "Buying your first home can easily become a daunting task if you are not familiar with the process. There are important issues to pay attention to during the process, including taking care of the financing and finding the right home for you and your family. Many first-time home buyers and even repeat buyers easily miss crucial elements during the process that might come to bite if not resolved or looked for during the process. That is why it is important to get help from a Realtor. Realtors are there to help you, and when you are buying a home, they do it at absolutely no cost to you. But before reaching the point where you are ready to talk to a Realtor, if you are considering buying a home but you do not know where to start, you can get this report that tells you the basic and most important things to take into consideration when starting your path to home buying. This special presentation will tell you, in few words and step by step, the most important points to take into account when buying a home. You can read it as a starting point to see the whole picture of what buying a home entitles, before continuing with your next steps. This presentation will be sent to your email completely FREE. Once you have reviewed the presentation, I encourage you to seek the help from a Realtor you trust. He or she will be your best ally in your effort to become a proud homeowner.",
+          "subtitle": "Buying your first home can easily become a daunting task if you are not familiar with the process. There are important issues to pay attention to during the process, including taking care of the financing and finding the right home for you and your family. Many first-time home buyers and even repeat buyers miss crucial elements that might come to bite if not resolved or looked for during the process. That is why it is important to get help from a Realtor. Realtors are there to help you, and when you are buying a home, they do it at absolutely <b>no cost</b> to you. But before reaching the point where you are ready to talk to a Realtor, if you are considering buying a home but you do not know where to start, you can get this <b>FREE</b> report that tells you the most important things to consider when buying a home. This special presentation will tell you, in few words and step by step, the most important aspects to cover. You can read it as a starting point before continuing with your next steps. This presentation will be sent to your email completely <b>FREE</b>. Once you have reviewed it, I encourage you to seek the help from a Realtor you trust. He or she will be your best ally in your effort to become a proud homeowner.",
           "form": {
             "action": "emperorcesare@hotmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you! Your presentation is on its way!"
             },
             "fields": {
               "email": {
